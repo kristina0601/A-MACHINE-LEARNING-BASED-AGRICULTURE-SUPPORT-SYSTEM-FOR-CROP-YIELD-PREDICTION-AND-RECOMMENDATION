@@ -1,0 +1,2 @@
+# A-MACHINE-LEARNING-BASED-AGRICULTURE-SUPPORT-SYSTEM-FOR-CROP-YIELD-PREDICTION-AND-RECOMMENDATION
+Machine Learning based Agriculture Support System that provides intelligent crop recommendation, fertilizer prediction, and crop yield forecasting using soil and climatic data. The project uses ML algorithms like Random Forest, SVM, KNN, and XGBoost along with Explainable AI techniques to support accurate and sustainable farming decisions.
